@@ -11,3 +11,9 @@ matlab p.39
 
 ### 핵심이 보이는 제어공학
 
+
+
+
+// git --add .
+// git commit -m "MSG" 
+// git push
